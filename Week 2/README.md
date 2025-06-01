@@ -12,6 +12,10 @@ This smart contract implements a decentralized voting system on the Ethereum blo
 - **Time-Limited Voting**: Voting period is set to 1 week from contract deployment
 - **Event Logging**: Comprehensive event emission for tracking all actions
 
+## Video Implementation of the DApp
+
+- https://drive.google.com/file/d/1An2E2bJjQbq-0gbF97tdY8ek4rAawMHU/view?usp=drive_link
+
 ## Technical Implementation
 
 ### Contract Structure
