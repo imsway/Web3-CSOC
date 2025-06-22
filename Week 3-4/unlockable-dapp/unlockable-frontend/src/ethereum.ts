@@ -3,7 +3,9 @@ import { ethers, BrowserProvider } from 'ethers';
 import type { Signer } from 'ethers';
 import UnlockableABI from './abi/Unlockable.json';
 
-export const UNLOCKABLE_CONTRACT_ADDRESS = "0x88CdD310b22611d91af1D70E87268e34fE4440b6";
+export const UNLOCKABLE_CONTRACT_ADDRESS = "0xC9C44B60415290291770F931602045bfD7Abc2b7";
+// Replace with your actual Unlockable contract address
+//if redeployed change this value to the new address
 
 const SEPOLIA_CHAIN_ID_HEX = '0xaa36a7'; // Chain ID for Sepolia in hexadecimal (11155111)
 const SEPOLIA_CHAIN_ID_DEC = 11155111;

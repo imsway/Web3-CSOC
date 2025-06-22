@@ -32,3 +32,12 @@ main()
         console.error(error);
         process.exit(1);
     });
+
+
+// Verify/Deploy locally 
+// npx hardhat run scripts/deploy.ts --network localhost
+
+
+// Verify your contract on Etherscan after deployment
+// npx hardhat verify --network sepolia 0xC9C44B60415290291770F931602045bfD7Abc2b7 5 0x66C64566BfeB9a91F07B8463b59E3874E6b78Fd3
+
