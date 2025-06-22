@@ -43,17 +43,13 @@ Monetizing digital content is hard. Unlockable makes it easy, transparent, and b
 ---
 
 ## 📦 Deployed Contract
-- **Address:** `Your_Unlockable_Contract_Address_On_Sepolia`
-- **Etherscan:** [View on Etherscan](https://sepolia.etherscan.io/address/YOUR_ADDRESS)
+- **Address:** `0xC9C44B60415290291770F931602045bfD7Abc2b7`
+- **Etherscan:** [View on Etherscan](https://sepolia.etherscan.io/address/0xC9C44B60415290291770F931602045bfD7Abc2b7)
 
 ---
 
-## 🖥️ Quick Demo
-
-
-<p align="center">
-  <img src="unlockable-dapp/unlockable-frontend/src/assets/Demo.png" alt="Unlockable Demo"/>
-</p>
+## 🖥️ Demo
+- [View in Google Drive](https://drive.google.com/file/d/1M2m4_BhrITG3YmXDpLpQKZAiLnh1gR1O/view?usp=drive_link)
 
 ---
 
